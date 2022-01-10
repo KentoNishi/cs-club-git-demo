@@ -1,6 +1,6 @@
 def hello():
     print("Hello World!")
-    jsdaifidjofasf''
+    print("it works now!")
     print("Hello world!")
 
 hello()
